@@ -74,6 +74,16 @@ Both candidate motors were configured with torque-controlled FOC loops (sample t
 
 ---
 
+## 💻 Software & Toolbox Requirements
+* **MATLAB / Simulink:** R2026b (or newer)
+* **Required Toolboxes:**
+  * Simscape™
+  * Simscape™ Electrical™
+  * Simscape™ Driveline™
+  * Motor Control Blockset™
+
+---
+
 ## 🚀 How to Run the Project
 
 ### Standard Simulation (Ready to Run)
